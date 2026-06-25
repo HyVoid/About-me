@@ -103,7 +103,7 @@ These projects are typically useful for:
 - Organizations that need practical systems without enterprise software
 
 ---
----
+
 
 # What You'll Find Here
 ---
@@ -186,8 +186,6 @@ This category applies business analysis methods to personal planning. The proble
 | Tool | Repository |
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
-
----
 
 ---
 
