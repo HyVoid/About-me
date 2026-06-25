@@ -1,7 +1,7 @@
 
 
-[Banner](<img width="1836" height="857" alt="linkedin banner-2" src="https://github.com/user-attachments/assets/046412d8-062a-4e87-9f35-90e7ef3fbd95" />
-)
+<img width="1836" height="857" alt="linkedin banner-2" src="https://github.com/user-attachments/assets/046412d8-062a-4e87-9f35-90e7ef3fbd95" />
+
 
 ---
 
