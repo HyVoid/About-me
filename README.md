@@ -132,6 +132,7 @@ This category covers tools that bring structure to cash decisions: budget tracki
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
 </details>
+
 ---
 
 <details>
@@ -148,6 +149,7 @@ This category addresses the decisions that live inside inventory data: high-valu
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
 </details>
+
 ---
 
 <details>
@@ -197,6 +199,7 @@ This category applies business analysis methods to personal planning. The proble
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
 </details>
+
 ---
 
 # Tool Directory
@@ -217,6 +220,7 @@ mindmap
 ```
 
 ---
+
 # If This Sounds Familiar
 
 You may find these tools useful if:
@@ -230,7 +234,9 @@ You may find these tools useful if:
 - You are currently managing the process with spreadsheets, emails, notes, or manual coordination.
 
 - You need a practical starting point rather than a full consulting engagement.
+  
 ---
+
 # Why Not Just Ask AI?
 
 AI is excellent at generating ideas.
