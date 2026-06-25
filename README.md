@@ -118,7 +118,8 @@ These projects are typically useful for:
 
 ---
 
-## Cash Flow Management
+<details>
+<summary>## Cash Flow Management</summary>
 
 Are you making investment decisions based on gut feeling rather than actual cash position? Do you know whether your current reserves support the next allocation — or whether last month's spend has already constrained your options?
 
@@ -130,9 +131,11 @@ This category covers tools that bring structure to cash decisions: budget tracki
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
+</details>
 ---
 
-## Inventory Management
+<details>
+<summary>## Inventory Management</summary>
 
 Which SKUs are worth iterating on — and which are quietly eroding margin? When inventory sits across regions, how do you reconcile positions without losing track of what you actually own?
 
@@ -144,9 +147,11 @@ This category addresses the decisions that live inside inventory data: high-valu
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
+</details>
 ---
 
-## Sales Management
+<details>
+<summary>## Sales Management</summary>
 
 Is this lead worth pursuing? Has enough time passed to follow up — or too much? Which accounts are drifting without a decision?
 
@@ -160,7 +165,8 @@ This category focuses on the judgment layer of sales operations: lead qualificat
 
 ---
 
-## Compliance Support
+<details>
+<summary>## Compliance Support
 
 When regulations overlap, which constraint actually binds? If a decision satisfies Rule A but conflicts with Rule B, is the overall position still viable?
 
@@ -175,7 +181,8 @@ This category handles the structural complexity of compliance: mapping cross-con
 
 ---
 
-## Life Tools *(Easter Egg)*
+<details>
+<summary>## Life Tools *(Easter Egg)*</summary>
 
 The same optimization logic that applies to operations applies to life. Allocation, sequencing, constraint management, resource limits — these problems do not stop at the office door.
 
@@ -187,6 +194,7 @@ This category applies business analysis methods to personal planning. The proble
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
+</details>
 ---
 
 # Tool Directory
@@ -205,52 +213,6 @@ mindmap
     Life Tools
       TOOL PLACEHOLDER
 ```
-
----
-
-## Cash Flow Management
-
-| Tool | Description |
-|---|---|
-| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
-| *More Coming Soon* | |
-
----
-
-## Inventory Management
-
-| Tool | Description |
-|---|---|
-| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
-| *More Coming Soon* | |
-
----
-
-## Sales Management
-
-| Tool | Description |
-|---|---|
-| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
-| *More Coming Soon* | |
-
----
-
-## Compliance Support
-
-| Tool | Description |
-|---|---|
-| Flight & Duty Time Compliance Tracker | Monitor regulatory compliance for flight operations under overlapping constraint sets |
-| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
-| *More Coming Soon* | |
-
----
-
-## Life Tools *(Easter Egg)*
-
-| Tool | Description |
-|---|---|
-| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
-| *More Coming Soon* | |
 
 ---
 # If This Sounds Familiar
