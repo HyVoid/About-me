@@ -106,7 +106,6 @@ These projects are typically useful for:
 
 
 # What You'll Find Here
----
 
 | Category | Topic Tags |
 |---|---|
@@ -116,10 +115,10 @@ These projects are typically useful for:
 | **Compliance Support** | `cross-constraint mapping` `regulatory feasibility` `overlapping rule sets` `compliance diagnostics` |
 | **Life Tools** *(Easter Egg)* | `personal planning` `resource allocation` `sequencing` `constraint management` |
 
----
+## Cash Flow Management
 
 <details>
-<summary> Cash Flow Management</summary>
+<summary>expand</summary>
 
 Are you making investment decisions based on gut feeling rather than actual cash position? Do you know whether your current reserves support the next allocation — or whether last month's spend has already constrained your options?
 
@@ -133,10 +132,10 @@ This category covers tools that bring structure to cash decisions: budget tracki
 
 </details>
 
----
+## Inventory Management
 
 <details>
-<summary> Inventory Management</summary>
+<summary>expand</summary>
 
 Which SKUs are worth iterating on — and which are quietly eroding margin? When inventory sits across regions, how do you reconcile positions without losing track of what you actually own?
 
@@ -150,10 +149,11 @@ This category addresses the decisions that live inside inventory data: high-valu
 
 </details>
 
----
+
+## Sales Management
 
 <details>
-<summary>Sales Management</summary>
+<summary>expand</summary>
 
 Is this lead worth pursuing? Has enough time passed to follow up — or too much? Which accounts are drifting without a decision?
 
@@ -164,12 +164,14 @@ This category focuses on the judgment layer of sales operations: lead qualificat
 | Tool | Repository |
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
 </details>
 
----
+
+## Compliance Support
 
 <details>
-<summary> Compliance Support</summary>
+<summary>expand</summary>
 
 When regulations overlap, which constraint actually binds? If a decision satisfies Rule A but conflicts with Rule B, is the overall position still viable?
 
@@ -181,12 +183,14 @@ This category handles the structural complexity of compliance: mapping cross-con
 |---|---|
 | Flight & Duty Time Compliance Tracker | [REPO LINK PLACEHOLDER] |
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
 </details>
 
----
+
+## Life Tools *(Easter Egg)*
 
 <details>
-<summary>## Life Tools *(Easter Egg)*</summary>
+<summary>expand</summary>
 
 The same optimization logic that applies to operations applies to life. Allocation, sequencing, constraint management, resource limits — these problems do not stop at the office door.
 
@@ -199,8 +203,6 @@ This category applies business analysis methods to personal planning. The proble
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
 </details>
-
----
 
 # Tool Directory
 
