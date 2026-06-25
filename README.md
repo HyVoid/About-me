@@ -1,16 +1,7 @@
-<!-- ============================================================ -->
-<!-- HERO BANNER PLACEHOLDER                                       -->
-<!-- 规格: 2560×1440px                                             -->
-<!-- 背景色: #051C2C（深海军蓝）                                    -->
-<!-- 居中白色文字:                                                  -->
-<!--   主标题: Business Problems → Practical Tools                 -->
-<!--   副标题: Structured Analysis · Familiar Tools                -->
-<!--            · Repeatable Workflows                             -->
-<!-- 导出为 PNG，存放路径: ./assets/banner.png                      -->
-<!-- 工具建议: Figma / Canva / PowerPoint（导出高清PNG）             -->
-<!-- ============================================================ -->
 
-![Banner](./assets/banner.png)
+
+![Banner](<img width="1836" height="857" alt="linkedin banner-2" src="https://github.com/user-attachments/assets/046412d8-062a-4e87-9f35-90e7ef3fbd95" />
+)
 
 ---
 
@@ -24,7 +15,7 @@ My projects start with recurring business problems.
 
 Instead of asking:
 
-> *"What software should we build?"*
+> *"What software should we build?" or "Whcih is better for me?"*
 
 I usually ask:
 
@@ -259,15 +250,15 @@ These projects are typically useful for:
 
 ### GitHub
 
-[View All Repositories](https://github.com/YOUR_USERNAME)
+[View All Repositories](https://github.com/HyVoid)
 
 ### LinkedIn
 
-[LinkedIn Profile](https://linkedin.com/in/YOUR_PROFILE)
+[LinkedIn Profile](https://www.linkedin.com/in/alex-yuhong/)
 
 ### Email
 
-your@email.com
+yu_hong_work@163.com
 
 ---
 
