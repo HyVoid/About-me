@@ -103,102 +103,154 @@ These projects are typically useful for:
 - Organizations that need practical systems without enterprise software
 
 ---
+---
+
 # What You'll Find Here
 
-This repository serves as the central directory for all projects.
-
-Projects generally fall into four categories:
-
-| Category | Focus |
+| Category | Topic Tags |
 |---|---|
-| **Compliance & Audit Tracking** | Audit readiness, regulatory tracking, operational control |
-| **Planning & Scheduling** | Scheduling, coordination, resource allocation |
-| **Operations Management** | Recurring operational activities, visibility systems |
-| **Business Analysis** | Structured decision-making frameworks and templates |
+| **Cash Flow Management** | `budget tracking` `allocation decisions` `actual cash monitoring` `reserve management` `investment timing` |
+| **Inventory Management** | `SKU evaluation` `cross-region reconciliation` `inventory health` `margin contribution` `concentration risk` |
+| **Sales Management** | `lead qualification` `follow-up timing` `account progression` `pipeline prioritization` `decision under uncertainty` |
+| **Compliance Support** | `cross-constraint mapping` `regulatory feasibility` `overlapping rule sets` `compliance diagnostics` |
+| **Life Tools** *(Easter Egg)* | `personal planning` `resource allocation` `sequencing` `constraint management` |
+---
+
+## Cash Flow Management
+
+Are you making investment decisions based on gut feeling rather than actual cash position? Do you know whether your current reserves support the next allocation — or whether last month's spend has already constrained your options?
+
+This category covers tools that bring structure to cash decisions: budget tracking and allocation logic, actual cash monitoring, and reserve-based decision triggers. The goal is not accounting software. It's making the right call at the right moment with the right information visible.
+
+**Typical Tools**
+
+| Tool | Repository |
+|---|---|
+| [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
 
 ---
 
+## Inventory Management
+
+Which SKUs are worth iterating on — and which are quietly eroding margin? When inventory sits across regions, how do you reconcile positions without losing track of what you actually own?
+
+This category addresses the decisions that live inside inventory data: high-value SKU lifecycle evaluation, cross-region stock reconciliation, inventory health diagnostics, margin contribution by item, and concentration risk optimization. Inventory is not a storage problem. It is a capital allocation problem.
+
+**Typical Tools**
+
+| Tool | Repository |
+|---|---|
+| [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
+---
+
+## Sales Management
+
+Is this lead worth pursuing? Has enough time passed to follow up — or too much? Which accounts are drifting without a decision?
+
+This category focuses on the judgment layer of sales operations: lead qualification logic, follow-up timing, and customer progression tracking. The tools here are not CRM replacements. They are decision frameworks that help you prioritize action when information is incomplete and time is limited.
+
+**Typical Tools**
+
+| Tool | Repository |
+|---|---|
+| [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
+---
+
+## Compliance Support
+
+When regulations overlap, which constraint actually binds? If a decision satisfies Rule A but conflicts with Rule B, is the overall position still viable?
+
+This category handles the structural complexity of compliance: mapping cross-constraint relationships within regulatory frameworks, and running feasibility checks on decisions before they become violations. The tools here do not replace legal counsel. They reduce the analytical cost of navigating rule sets that were not designed to be read together.
+
+**Typical Tools**
+
+| Tool | Repository |
+|---|---|
+| Flight & Duty Time Compliance Tracker | [REPO LINK PLACEHOLDER] |
+| [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
+---
+
+## Life Tools *(Easter Egg)*
+
+The same optimization logic that applies to operations applies to life. Allocation, sequencing, constraint management, resource limits — these problems do not stop at the office door.
+
+This category applies business analysis methods to personal planning. The problems are smaller. The logic is the same.
+
+**Typical Tools**
+
+| Tool | Repository |
+|---|---|
+| [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+
+---
+
+---
 
 # Tool Directory
 
 ```mermaid
 mindmap
   root((Business Tools))
-    Compliance
+    Cash Flow Management
+      TOOL PLACEHOLDER
+    Inventory Management
+      TOOL PLACEHOLDER
+    Sales Management
+      TOOL PLACEHOLDER
+    Compliance Support
       Flight Duty Tracker
-    Planning
-      Wedding Planner
-    Operations
-      Vendor Tracker
-    Analysis
-      GTM Toolkit
+    Life Tools
+      TOOL PLACEHOLDER
 ```
 
 ---
 
-## Compliance & Audit Tracking
+## Cash Flow Management
 
 | Tool | Description |
 |---|---|
-| Flight & Duty Time Compliance Tracker | Monitor regulatory compliance for flight operations |
+| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
 | *More Coming Soon* | |
 
 ---
 
-## Planning & Scheduling
+## Inventory Management
 
 | Tool | Description |
 |---|---|
-| Wedding Seating Planner | Guest allocation and table planning |
+| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
 | *More Coming Soon* | |
 
 ---
 
-## Operations Management
+## Sales Management
 
 | Tool | Description |
 |---|---|
-| Vendor Management Tracker | Attendance and assignment tracking |
+| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
 | *More Coming Soon* | |
 
 ---
 
-## Business Analysis
+## Compliance Support
 
 | Tool | Description |
 |---|---|
-| GTM Analysis Templates | Structured go-to-market analysis frameworks |
+| Flight & Duty Time Compliance Tracker | Monitor regulatory compliance for flight operations under overlapping constraint sets |
+| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
 | *More Coming Soon* | |
 
 ---
 
-# My Product Philosophy
+## Life Tools *(Easter Egg)*
 
-Every project follows the same principles:
-
-## 1. Analysis Before Automation
-
-Understand the problem before adding technology.
-
-## 2. Simplicity Over Feature Abundance
-
-A smaller tool used consistently creates more value than a complex tool nobody maintains.
-
-## 3. Familiar Tools Over New Platforms
-
-People should not need weeks of training to solve operational problems.
-
-## 4. Repeatable Workflows Over Manual Expertise
-
-The goal is to reduce dependency on individual knowledge and create consistent processes.
-
-## 5. Business Problems First, Software Second
-
-Technology is a delivery mechanism.
-
-The business problem comes first.
-
----
+| Tool | Description |
+|---|---|
+| [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
+| *More Coming Soon* | |
 
 # How I Think About Business Problems
 
