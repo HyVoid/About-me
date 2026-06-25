@@ -106,6 +106,7 @@ These projects are typically useful for:
 ---
 
 # What You'll Find Here
+---
 
 | Category | Topic Tags |
 |---|---|
@@ -114,6 +115,7 @@ These projects are typically useful for:
 | **Sales Management** | `lead qualification` `follow-up timing` `account progression` `pipeline prioritization` `decision under uncertainty` |
 | **Compliance Support** | `cross-constraint mapping` `regulatory feasibility` `overlapping rule sets` `compliance diagnostics` |
 | **Life Tools** *(Easter Egg)* | `personal planning` `resource allocation` `sequencing` `constraint management` |
+
 ---
 
 ## Cash Flow Management
@@ -251,6 +253,8 @@ mindmap
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [DESCRIPTION PLACEHOLDER] |
 | *More Coming Soon* | |
+
+---
 
 # How I Think About Business Problems
 
