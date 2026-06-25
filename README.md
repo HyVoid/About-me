@@ -119,7 +119,7 @@ These projects are typically useful for:
 ---
 
 <details>
-<summary>## Cash Flow Management</summary>
+<summary> Cash Flow Management</summary>
 
 Are you making investment decisions based on gut feeling rather than actual cash position? Do you know whether your current reserves support the next allocation — or whether last month's spend has already constrained your options?
 
@@ -135,7 +135,7 @@ This category covers tools that bring structure to cash decisions: budget tracki
 ---
 
 <details>
-<summary>## Inventory Management</summary>
+<summary> Inventory Management</summary>
 
 Which SKUs are worth iterating on — and which are quietly eroding margin? When inventory sits across regions, how do you reconcile positions without losing track of what you actually own?
 
@@ -151,7 +151,7 @@ This category addresses the decisions that live inside inventory data: high-valu
 ---
 
 <details>
-<summary>## Sales Management</summary>
+<summary>Sales Management</summary>
 
 Is this lead worth pursuing? Has enough time passed to follow up — or too much? Which accounts are drifting without a decision?
 
@@ -162,11 +162,12 @@ This category focuses on the judgment layer of sales operations: lead qualificat
 | Tool | Repository |
 |---|---|
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+</details>
 
 ---
 
 <details>
-<summary>## Compliance Support
+<summary> Compliance Support</summary>
 
 When regulations overlap, which constraint actually binds? If a decision satisfies Rule A but conflicts with Rule B, is the overall position still viable?
 
@@ -178,6 +179,7 @@ This category handles the structural complexity of compliance: mapping cross-con
 |---|---|
 | Flight & Duty Time Compliance Tracker | [REPO LINK PLACEHOLDER] |
 | [TOOL NAME PLACEHOLDER] | [REPO LINK PLACEHOLDER] |
+</details>
 
 ---
 
