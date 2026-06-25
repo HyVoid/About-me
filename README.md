@@ -91,6 +91,23 @@ My goal is to create practical tools that help people:
 - Make better operational decisions
 
 ---
+
+# If This Sounds Familiar
+
+You may find these tools useful if:
+
+- You know something is inefficient, but you're not sure how to structure the problem.
+
+- You have discussed the issue with AI, but keep getting generic advice or outputs that don't fit your situation.
+
+- You know a software platform exists, but it feels too expensive, too complex, or too large for the problem you're trying to solve.
+
+- You are currently managing the process with spreadsheets, emails, notes, or manual coordination.
+
+- You need a practical starting point rather than a full consulting engagement.
+
+---
+  
 # Who These Tools Are For
 
 These projects are typically useful for:
@@ -221,22 +238,7 @@ mindmap
       TOOL PLACEHOLDER
 ```
 
----
 
-# If This Sounds Familiar
-
-You may find these tools useful if:
-
-- You know something is inefficient, but you're not sure how to structure the problem.
-
-- You have discussed the issue with AI, but keep getting generic advice or outputs that don't fit your situation.
-
-- You know a software platform exists, but it feels too expensive, too complex, or too large for the problem you're trying to solve.
-
-- You are currently managing the process with spreadsheets, emails, notes, or manual coordination.
-
-- You need a practical starting point rather than a full consulting engagement.
-  
 ---
 
 # Why Not Just Ask AI?
