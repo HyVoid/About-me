@@ -253,6 +253,40 @@ mindmap
 | *More Coming Soon* | |
 
 ---
+# If This Sounds Familiar
+
+You may find these tools useful if:
+
+- You know something is inefficient, but you're not sure how to structure the problem.
+
+- You have discussed the issue with AI, but keep getting generic advice or outputs that don't fit your situation.
+
+- You know a software platform exists, but it feels too expensive, too complex, or too large for the problem you're trying to solve.
+
+- You are currently managing the process with spreadsheets, emails, notes, or manual coordination.
+
+- You need a practical starting point rather than a full consulting engagement.
+---
+# Why Not Just Ask AI?
+
+AI is excellent at generating ideas.
+
+Operational problems are often harder.
+
+The challenge is usually not generating solutions.
+
+The challenge is:
+
+- Defining the real problem
+- Identifying missing information
+- Structuring decisions
+- Creating repeatable workflows
+
+Many of these tools started from situations where the problem definition work had already been done.
+
+Instead of starting from a blank page, you can start with a framework that has already been structured around a specific operational challenge.
+
+---
 
 # How I Think About Business Problems
 
@@ -293,15 +327,16 @@ flowchart TD
 
 ### GitHub
 
-[View All Repositories](https://github.com/HyVoid)
+[View All Tools Repositories](https://github.com/HyVoid)
 
 ### LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/alex-yuhong/)
+[LinkedIn Profile | View My business analysis](https://www.linkedin.com/in/alex-yuhong/)
 
 ### Email
 
-yu_hong_work@163.com
+Have further need for customized tools? Tools use support?
+GO with 👉 yu_hong_work@163.com
 
 ---
 
