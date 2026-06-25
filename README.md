@@ -1,17 +1,22 @@
-<!-- ============================================================
-     HERO BANNER
-     手动操作：制作 2560×640 PNG，风格参考 #051C2C 深海军蓝底色
-     + 白色居中文字：Business Problems → Practical Tools
-     上传至本仓库 /assets/hero.png 后替换下方路径
-     ============================================================ -->
+<!-- ============================================================ -->
+<!-- HERO BANNER PLACEHOLDER                                       -->
+<!-- 规格: 2560×1440px                                             -->
+<!-- 背景色: #051C2C（深海军蓝）                                    -->
+<!-- 居中白色文字:                                                  -->
+<!--   主标题: Business Problems → Practical Tools                 -->
+<!--   副标题: Structured Analysis · Familiar Tools                -->
+<!--            · Repeatable Workflows                             -->
+<!-- 导出为 PNG，存放路径: ./assets/banner.png                      -->
+<!-- 工具建议: Figma / Canva / PowerPoint（导出高清PNG）             -->
+<!-- ============================================================ -->
 
-![Hero Banner](assets/hero.png)
-
-<!-- 无图版备用（删除上方图片行时启用）
-# Business Problems → Practical Tools
--->
+![Banner](./assets/banner.png)
 
 ---
+
+# Business Problems → Practical Tools
+
+> I build lightweight operational tools that turn recurring business problems into repeatable workflows.
 
 Most business software starts with features.
 
@@ -19,119 +24,216 @@ My projects start with recurring business problems.
 
 Instead of asking:
 
-> *"which software is better for me?"*
+> *"What software should we build?"*
 
-I ask:
+I usually ask:
 
-> *"What decision is difficult today?"*  
-> *"What information is missing?"*  
+> *"What decision is difficult today?"*
+> *"What information is missing?"*
 > *"What process keeps breaking?"*
 
-Then I build the simplest tool that solves the problem.
+Then I build the simplest tool that helps solve that problem.
 
 ---
 
-## How I Work
+Most small businesses don't need another software platform.
+
+They need:
+
+- Better visibility
+- Clearer processes
+- Consistent decision-making
+- Practical ways to manage recurring operational tasks
+
+My projects focus on solving operational and management problems using lightweight tools, structured analysis, and familiar workflows.
+
+---
 
 ```mermaid
 flowchart LR
-    A([Recurring Problem]) --> B([Root Cause Analysis])
-    B --> C([Visibility])
-    B --> D([Consistency])
-    B --> E([Accountability])
-    C --> F([Tool Design])
+    A[Business Problem] --> B[Root Cause Analysis]
+    B --> C[Visibility]
+    B --> D[Consistency]
+    B --> E[Accountability]
+    C --> F[Tool Design]
     D --> F
     E --> F
-    F --> G([Practical Workflow])
+    F --> G[Practical Workflow]
 ```
 
-| Step | Focus |
-|------|-------|
-| **Observe** | Identify recurring operational friction |
-| **Analyze** | Find root causes — visibility, process, or decision gaps |
-| **Structure** | Design repeatable workflows before writing a single formula |
-| **Build** | Deliver practical tools in familiar formats |
-| **Improve** | Refine through real usage |
+---
+
+# Who I Am
+
+I build business analysis tools for small businesses, operations teams, and independent professionals.
+
+Rather than building large software systems, I focus on turning proven business analysis methods into practical tools that people can start using immediately.
+
+Most of my projects are built with:
+
+- Excel
+- Structured workflows
+- Decision-support frameworks
+- Lightweight operational systems
 
 ---
 
-## Product Philosophy
+# Why I Build These Tools
 
-| Principle | What It Means |
-|-----------|---------------|
-| **Analysis Before Automation** | Understand the problem before adding technology |
-| **Simplicity Over Features** | A smaller tool used consistently outperforms a complex tool nobody maintains |
-| **Familiar Tools** | People should not need weeks of training to solve operational problems |
-| **Repeatable Workflows** | Reduce dependency on individual knowledge; create consistent processes |
-| **Business Problem First** | Technology is a delivery mechanism, not the solution |
+Many operational challenges appear to be software problems.
+
+In reality, they are often:
+
+- Visibility problems
+- Process problems
+- Planning problems
+- Tracking problems
+- Decision-making problems
+
+Adding more software rarely fixes those issues by itself.
+
+My goal is to create practical tools that help people:
+
+- Understand what is happening
+- Organize information consistently
+- Reduce manual coordination
+- Make better operational decisions
 
 ---
 
-## What I Build
+# What You'll Find Here
+
+This repository serves as the central directory for all projects.
+
+Projects generally fall into four categories:
+
+| Category | Focus |
+|---|---|
+| **Compliance & Audit Tracking** | Audit readiness, regulatory tracking, operational control |
+| **Planning & Scheduling** | Scheduling, coordination, resource allocation |
+| **Operations Management** | Recurring operational activities, visibility systems |
+| **Business Analysis** | Structured decision-making frameworks and templates |
+
+---
+
+# Tool Directory
 
 ```mermaid
 mindmap
   root((Business Tools))
     Compliance
-      Flight Duty Time Tracker
+      Flight Duty Tracker
     Planning
       Wedding Planner
     Operations
-      Vendor Management Tracker
+      Vendor Tracker
     Analysis
-      GTM Analysis Toolkit
+      GTM Toolkit
 ```
 
 ---
 
-## Tool Directory
+## Compliance & Audit Tracking
 
-### Compliance & Audit
-
-| Tool | What It Solves |
-|------|----------------|
-| [Flight & Duty Time Compliance Tracker](https://github.com/YOUR_USERNAME/REPO_NAME) | Regulatory compliance monitoring for flight operations |
-| *More coming* | |
+| Tool | Description |
+|---|---|
+| Flight & Duty Time Compliance Tracker | Monitor regulatory compliance for flight operations |
+| *More Coming Soon* | |
 
 ---
 
-### Planning & Scheduling
+## Planning & Scheduling
 
-| Tool | What It Solves |
-|------|----------------|
-| [Wedding Seating Planner](https://github.com/YOUR_USERNAME/REPO_NAME) | Guest allocation and table coordination |
-| *More coming* | |
-
----
-
-### Operations Management
-
-| Tool | What It Solves |
-|------|----------------|
-| [Vendor Management Tracker](https://github.com/YOUR_USERNAME/REPO_NAME) | Attendance, assignment, and vendor visibility |
-| *More coming* | |
+| Tool | Description |
+|---|---|
+| Wedding Seating Planner | Guest allocation and table planning |
+| *More Coming Soon* | |
 
 ---
 
-### Business Analysis
+## Operations Management
 
-| Tool | What It Solves |
-|------|----------------|
-| [GTM Analysis Templates](https://github.com/YOUR_USERNAME/REPO_NAME) | Structured go-to-market decision frameworks |
-| *More coming* | |
-
----
-
-## Who These Tools Are For
-
-Small business owners, operations managers, project coordinators, and independent professionals who need practical systems without the overhead of enterprise software.
-
-Not for teams that need another platform.  
-For teams that need better visibility, better structure, and better decisions.
+| Tool | Description |
+|---|---|
+| Vendor Management Tracker | Attendance and assignment tracking |
+| *More Coming Soon* | |
 
 ---
 
-## Current Projects
+## Business Analysis
+
+| Tool | Description |
+|---|---|
+| GTM Analysis Templates | Structured go-to-market analysis frameworks |
+| *More Coming Soon* | |
+
+---
+
+# My Product Philosophy
+
+Every project follows the same principles:
+
+## 1. Analysis Before Automation
+
+Understand the problem before adding technology.
+
+## 2. Simplicity Over Feature Abundance
+
+A smaller tool used consistently creates more value than a complex tool nobody maintains.
+
+## 3. Familiar Tools Over New Platforms
+
+People should not need weeks of training to solve operational problems.
+
+## 4. Repeatable Workflows Over Manual Expertise
+
+The goal is to reduce dependency on individual knowledge and create consistent processes.
+
+## 5. Business Problems First, Software Second
+
+Technology is a delivery mechanism.
+
+The business problem comes first.
+
+---
+
+# How I Think About Business Problems
+
+When evaluating an operational challenge, I typically examine five dimensions:
+
+| Dimension | Question |
+|---|---|
+| **Visibility** | Can people clearly see what is happening? |
+| **Consistency** | Can the process be repeated reliably? |
+| **Accountability** | Is ownership clearly defined? |
+| **Capacity** | Are resources allocated effectively? |
+| **Decision Support** | Can managers make informed decisions using available information? |
+
+---
+
+# How I Work
+
+| Step | Focus |
+|---|---|
+| **Observe** | Identify recurring friction |
+| **Analyze** | Find root causes |
+| **Structure** | Create repeatable workflows |
+| **Build** | Design practical tools |
+| **Improve** | Refine through usage |
+
+```mermaid
+flowchart TD
+    A[Recurring Problem] --> B[Problem Analysis]
+    B --> C[Workflow Design]
+    C --> D[Tool Prototype]
+    D --> E[Practical System]
+```
+
+---
+
+# Current Projects
+
+Currently building:
 
 - Wedding Planning Toolkit
 - Vendor Management Tracker
@@ -140,20 +242,39 @@ For teams that need better visibility, better structure, and better decisions.
 
 ---
 
-## Connect
+# Who These Tools Are For
 
-<!-- 手动操作：替换下方三处占位符 -->
+These projects are typically useful for:
 
-| Channel | Link |
-|---------|------|
-| GitHub | [View All Repositories](https://github.com/YOUR_USERNAME) |
-| LinkedIn | [LinkedIn Profile](https://linkedin.com/in/YOUR_PROFILE) |
-| Email | your@email.com |
+- Small business owners
+- Operations managers
+- Project coordinators
+- Compliance teams
+- Independent professionals
+- Organizations that need practical systems without enterprise software
 
 ---
 
-<!-- ============================================================
-     可选：Social Preview Image
-     手动操作：在 GitHub 仓库 Settings → Social Preview
-     上传同一张 hero.png，使链接分享时显示品牌图而非默认截图
-     ============================================================ -->
+# Connect
+
+### GitHub
+
+[View All Repositories](https://github.com/YOUR_USERNAME)
+
+### LinkedIn
+
+[LinkedIn Profile](https://linkedin.com/in/YOUR_PROFILE)
+
+### Email
+
+your@email.com
+
+---
+
+# Final Thought
+
+Most business problems do not require more software.
+
+They require better visibility, better structure, and better decisions.
+
+That's what these tools are designed to support.
