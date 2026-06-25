@@ -19,7 +19,7 @@ My projects start with recurring business problems.
 
 Instead of asking:
 
-> *"What software should we build?"*
+> *"which software is better for me?"*
 
 I ask:
 
