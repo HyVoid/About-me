@@ -91,7 +91,18 @@ My goal is to create practical tools that help people:
 - Make better operational decisions
 
 ---
+# Who These Tools Are For
 
+These projects are typically useful for:
+
+- Small business owners
+- Operations managers
+- Project coordinators
+- Compliance teams
+- Independent professionals
+- Organizations that need practical systems without enterprise software
+
+---
 # What You'll Find Here
 
 This repository serves as the central directory for all projects.
@@ -106,6 +117,7 @@ Projects generally fall into four categories:
 | **Business Analysis** | Structured decision-making frameworks and templates |
 
 ---
+
 
 # Tool Directory
 
@@ -222,29 +234,6 @@ flowchart TD
 
 ---
 
-# Current Projects
-
-Currently building:
-
-- Wedding Planning Toolkit
-- Vendor Management Tracker
-- Small Business Operations Templates
-- Go-To-Market Analysis Toolkit
-
----
-
-# Who These Tools Are For
-
-These projects are typically useful for:
-
-- Small business owners
-- Operations managers
-- Project coordinators
-- Compliance teams
-- Independent professionals
-- Organizations that need practical systems without enterprise software
-
----
 
 # Connect
 
