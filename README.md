@@ -206,7 +206,7 @@ Many of my systems started from situations where this problem-definition work ha
 
 If you already know the business problem you are trying to solve, visit:
 
-→ [Business Decision Toolbox](https://github.com/HyVoid)
+→ [Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
 
 There, tools are organized by:
 
@@ -226,7 +226,7 @@ Available Solutions
 
 ### GitHub
 
-[View the Business Decision Toolbox](https://github.com/HyVoid)
+[View the Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
 
 ### LinkedIn
 
