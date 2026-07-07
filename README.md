@@ -181,6 +181,8 @@ I typically work on decision problems involving:
 
 🧩 Reporting Architecture
 
+For more tools and content, check out the [business-decision-toolbox](https://github.com/HyVoid/business-decision-toolbox) repository.
+
 ---
 
 # Why Not Just Ask AI?
