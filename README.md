@@ -181,7 +181,21 @@ I typically work on decision problems involving:
 
 🧩 Reporting Architecture
 
-For more tools and content, check out the [business-decision-toolbox](https://github.com/HyVoid/business-decision-toolbox) repository.
+If you already know the business problem you are trying to solve, visit:
+
+→ [Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
+
+There, tools are organized by:
+
+```text
+Business Problem
+        ↓
+Typical Symptoms
+        ↓
+Decision Question
+        ↓
+Available Solutions
+```
 
 ---
 
@@ -201,26 +215,6 @@ The challenge is:
 - Creating repeatable workflows
 
 Many of my systems started from situations where this problem-definition work had already been done — a structured decision architecture, rather than a blank page.
-
----
-
-# Explore the Business Decision Toolbox
-
-If you already know the business problem you are trying to solve, visit:
-
-→ [Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
-
-There, tools are organized by:
-
-```text
-Business Problem
-        ↓
-Typical Symptoms
-        ↓
-Decision Question
-        ↓
-Available Solutions
-```
 
 ---
 
