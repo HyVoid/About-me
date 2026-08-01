@@ -234,6 +234,23 @@ Have further need for customized decision systems? Tool use support?
 GO with 👉 yu_hong_work@163.com
 
 ---
+## Affiliate Program / Collaborations
+
+If you've actually used one of my tools and found it genuinely useful, you're welcome to become an affiliate.
+
+This program is designed for people who naturally recommend products they believe in—not for mass promotion or spam.
+
+As an affiliate you'll receive:
+
+* **40% commission** on every successful referral.
+* Your own referral link with an **optional personal discount (around 10%)** for your audience, making it easier for them to try the tool while benefiting from your recommendation.
+* A long-term partnership with future products as the catalog grows.
+
+There are no posting quotas or sales targets.
+
+Use the tools first. Recommend them only if they genuinely solve someone's problem.
+
+[**Apply anytime →**](https://alexhasgreatestuff.gumroad.com/affiliates)
 
 # Final Thought
 
