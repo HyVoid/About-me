@@ -231,7 +231,7 @@ Many of my systems started from situations where this problem-definition work ha
 ### Email
 
 Have further need for customized decision systems? Tool use support?
-GO with 👉 yu_hong_work@163.com
+GO with 👉 support@theseusworkshop.com
 
 ---
 ## Affiliate Program / Collaborations
@@ -250,7 +250,7 @@ There are no posting quotas or sales targets.
 
 Use the tools first. Recommend them only if they genuinely solve someone's problem.
 
-[**Apply anytime →**](https://alexhasgreatestuff.gumroad.com/affiliates)
+[**Apply anytime →**](https://www.theseusworkshop.com/affiliates)
 
 # Final Thought
 
