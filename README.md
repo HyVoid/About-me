@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="品牌banner" src="https://github.com/user-attachments/assets/84349365-c179-49ba-84c9-c3e08e605c21" />
+<img width="2752" height="1536" alt="Gemini_Generated_Image_nayw6pnayw6pnayw" src="https://github.com/user-attachments/assets/44d02c1f-8967-4984-aef8-1aa7f58ca749" />
 
 ---
 
