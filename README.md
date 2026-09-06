@@ -2,6 +2,25 @@
 
 ---
 
+# Yu Hong | Ex-Big 4 Manager | Digital sellers and Freelancer | 10+ years experience in operation optimization
+
+Turning messy business problems into clear actionable decisions. Bridging enterprise-grade rigorous logic (Ex-KPMG/PwC) with practical SME operational execution.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-yuhong/ "Alex Hong - Operations & Supply Chain Consultant on LinkedIn")
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~012991723bf4a758d3 "Hire Alex Hong for E-Commerce Operations & Financial Control on Upwork")
+
+## 💡 Core Expertise
+- **E-Commerce Operations:** Global Supply Chain & Inventory Optimization (Shopify, Multi-location CN/EU/AU/US).
+- **Financial & Process Control:** Job costing, cash flow stabilization, and cross-border vendor management.
+- **Asynchronous Workflow:** GMT+8 operations providing zero-friction collaboration for remote employers.
+
+## 📦 Open-Source Portfolio
+I actively maintain **[Theseus Workshop]**, an open-source business decision toolbox designed for commercial estimating, real-time project cash flow, and resource utilization.
+
+* Explore my repositories below for production-ready assets like construction PM control workbooks and labor cost dashboards.
+
+---
+
 # The Exhaustion of Everyday Decisions
 
 Most of our operational exhaustion doesn't come from massive, company-ending crises. 
@@ -69,16 +88,6 @@ If you're currently wrestling with a specific operational bottleneck, you might 
 
 The tools are organized practically: 
 `Your Business Problem` → `Typical Symptoms` → `The Decision Question` → `The Available Solution`.
-
----
-
-# Let's Connect
-
-If you need help customizing a decision system, or if you're stuck on how to apply a specific tool to your workflow, I'm happy to help.
-
-* **GitHub:** [View the Toolbox](https://github.com/HyVoid/business-decision-toolbox)
-* **LinkedIn:** [View My Business Analysis Background](https://www.linkedin.com/in/alex-yuhong/)
-* **Email:** support@theseusworkshop.com
 
 ---
 
