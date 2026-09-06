@@ -15,7 +15,7 @@ Turning messy business problems into clear actionable decisions. Bridging enterp
 - **Asynchronous Workflow:** GMT+8 operations providing zero-friction collaboration for remote employers.
 
 ## 📦 Open-Source Portfolio
-I actively maintain **[Theseus Workshop]**, an open-source business decision toolbox designed for commercial estimating, real-time project cash flow, and resource utilization.
+I actively maintain [Theseus Workshop](https://theseusworkshop.com/), an open-source business decision toolbox designed for commercial estimating, real-time project cash flow, and resource utilization.
 
 * Explore my repositories below for production-ready assets like construction PM control workbooks and labor cost dashboards.
 
