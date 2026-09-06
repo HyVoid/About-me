@@ -2,260 +2,103 @@
 
 ---
 
-# Business Analysis → Decision Architecture
+# The Exhaustion of Everyday Decisions
 
-> I design lightweight decision-support systems that turn recurring business problems into repeatable operational decisions.
+Most of our operational exhaustion doesn't come from massive, company-ending crises. 
 
-Most business software starts with features.
+It comes from the friction of countless, fragmented decisions: 
+*“Where is this data?”* 
+*“Who is handling that task?”* 
+*“Why does this process keep breaking?”*
 
-My projects start with recurring business problems.
+These tiny, recurring dilemmas slowly drain our energy, cause us to lose focus, and make everyday work feel like a constant grind.
 
-Instead of asking:
+For years, working in business analysis and operations, I was trapped in this same cycle. When faced with these frictions, the instinctive reaction was often to ask: *"What new software should we buy?"*
 
-> *"What software should we build?" or "Which is better for me?"*
+But I eventually realized that adding more SaaS platforms rarely fixed the core issue. What we actually needed wasn't more software. 
 
-I usually ask:
-
-> *"What decision is difficult today?"*
-> *"What information is missing?"*
-> *"What process keeps breaking?"*
-
-Then I design the simplest decision system that resolves that problem.
+We needed clearer visibility, consistent logic, and a way to turn chaotic judgment calls into repeatable workflows.
 
 ---
 
-Most small businesses don't need another software platform.
+# Sharing What Works
 
-They need:
+Instead of building heavy enterprise software, I started designing lightweight decision-support systems to solve these exact problems—mostly using tools we already have, like Excel and Google Sheets.
 
-- Better visibility
-- Clearer processes
-- Consistent decision-making
-- Practical ways to manage recurring operational tasks
+These are the same systems and frameworks I’ve relied on to untangle messy operational bottlenecks in my own work. I'm sharing them here because I know how frustrating that loss of focus can be, and I hope these tools can help you bypass the trial-and-error I had to go through.
 
-I operationalize business analysis methods — turning judgment into structure, and structure into repeatable systems.
-
----
-
-# Who I Am
-
-I design business decision systems for small businesses, operations teams, and independent professionals.
-
-Rather than building large software systems, I focus on turning proven business analysis methods into decision architectures that people can start using immediately.
-
-Most of my work is built with:
-
-- Excel / Google Sheets
-- Structured workflows
-- Decision-support frameworks
-- Lightweight operational systems
-
----
-
-# What I Actually Build
-
-I do not build:
-
-- ERP systems
-- SaaS platforms
-- Enterprise software
-- Generic dashboards
-
+### What I actually focus on:
+I don't build generic dashboards, ERPs, or complex SaaS apps. 
 I build:
+- **Decision systems** that give you immediate clarity.
+- **Operational frameworks** that organize fragmented information.
+- **Repeatable workflows** that reduce manual coordination.
 
-- Decision systems
-- Operational frameworks
-- Business analysis tools
-- Repeatable workflows
-
-The goal is not to create more software.
-
-The goal is to help people make better operational decisions.
+Excel and Google Sheets remain the fastest way to transform existing business knowledge into these systems—without introducing new platforms or steep adoption costs.
 
 ---
 
-# Why I Build These Systems
+# The Methodology Behind the Tools
 
-Many operational challenges appear to be software problems.
+Every tool I share is built on a simple decision architecture. When evaluating an operational challenge, I've learned to stop looking at the "features" and start looking at these five dimensions:
 
-In reality, they are often:
-
-- Visibility problems
-- Process problems
-- Planning problems
-- Tracking problems
-- Decision-making problems
-
-Adding more software rarely fixes those issues by itself.
-
-My goal is to create decision systems that help people:
-
-- Understand what is happening
-- Organize information consistently
-- Reduce manual coordination
-- Make better operational decisions
-
----
-
-# Why Excel and Google Sheets
-
-Most organizations already have:
-
-- Data
-- Spreadsheets
-- Business knowledge
-- Operational experience
-
-What they often lack is:
-
-- Visibility
-- Structure
-- Decision logic
-
-Excel and Google Sheets remain the fastest way to transform existing business knowledge into operational decision systems — without introducing new platforms or new adoption costs.
-
----
-
-# Decision Architecture Framework
-
-```mermaid
-flowchart LR
-    A[Business Goal] --> B[Business Pain]
-    B --> C[Decision Question]
-    C --> D[Business Logic]
-    D --> E[Data Structure]
-    E --> F[Decision System]
-```
-
----
-
-# How I Think About Business Problems
-
-When evaluating an operational challenge, I typically examine five dimensions:
-
-| Dimension | Question |
+| Dimension | The Core Question We Need to Answer |
 |---|---|
-| **Visibility** | Can people clearly see what is happening? |
-| **Consistency** | Can the process be repeated reliably? |
-| **Accountability** | Is ownership clearly defined? |
-| **Capacity** | Are resources allocated effectively? |
-| **Decision Support** | Can managers make informed decisions using available information? |
+| **Visibility** | Can we clearly see what is actually happening right now? |
+| **Consistency** | Can this process be repeated reliably without breaking? |
+| **Accountability** | Is ownership clearly defined without endless meetings? |
+| **Capacity** | Are our resources (time, money, effort) allocated logically? |
+| **Decision Support** | Do we have the right information in front of us to make a call? |
+
+Rather than starting with a blank page, these tools give you a structured starting point. 
+
+The workflow is simple:
+**Observe Recurring Friction → Analyze Root Causes → Apply Business Logic → Implement a Lightweight System.**
 
 ---
 
-# How I Work
+# The Business Decision Toolbox
 
-| Step | Focus |
-|---|---|
-| **Observe** | Identify recurring friction |
-| **Analyze** | Find root causes |
-| **Structure** | Create repeatable workflows |
-| **Build** | Design practical decision systems |
-| **Improve** | Refine through usage |
+I typically organize these solutions around specific business domains where friction is highest:
 
-```mermaid
-flowchart TD
-    A[Recurring Problem] --> B[Problem Analysis]
-    B --> C[Decision Architecture]
-    C --> D[System Prototype]
-    D --> E[Operational Decision System]
-```
+💰 Profitability | 📦 Inventory | 📈 Marketing | ⚙️ Operations | 📋 Compliance | 🏗️ Engineering
+
+If you're currently wrestling with a specific operational bottleneck, you might find a shortcut here:
+
+→ [**Explore the Business Decision Toolbox**](https://github.com/HyVoid/business-decision-toolbox)
+
+The tools are organized practically: 
+`Your Business Problem` → `Typical Symptoms` → `The Decision Question` → `The Available Solution`.
 
 ---
 
-# Business Domains
+# Let's Connect
 
-I typically work on decision problems involving:
+If you need help customizing a decision system, or if you're stuck on how to apply a specific tool to your workflow, I'm happy to help.
 
-💰 Profitability
-
-📦 Inventory
-
-📈 Marketing
-
-⚙️ Operations
-
-📋 Compliance
-
-🏗️ Engineering
-
-🧩 Reporting Architecture
-
-If you already know the business problem you are trying to solve, visit:
-
-→ [Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
-
-There, tools are organized by:
-
-```text
-Business Problem
-        ↓
-Typical Symptoms
-        ↓
-Decision Question
-        ↓
-Available Solutions
-```
+* **GitHub:** [View the Toolbox](https://github.com/HyVoid/business-decision-toolbox)
+* **LinkedIn:** [View My Business Analysis Background](https://www.linkedin.com/in/alex-yuhong/)
+* **Email:** support@theseusworkshop.com
 
 ---
 
-# Why Not Just Ask AI?
+### Affiliate Program / Collaborations
 
-AI is excellent at generating ideas.
+If you've actually used one of my tools, integrated it into your work, and found it genuinely useful, you're welcome to become an affiliate.
 
-Operational problems are often harder.
+I designed this program for people who naturally share resources they believe in—not for mass promotion. 
 
-The challenge is usually not generating solutions.
-
-The challenge is:
-
-- Defining the real problem
-- Identifying missing information
-- Structuring decisions
-- Creating repeatable workflows
-
-Many of my systems started from situations where this problem-definition work had already been done — a structured decision architecture, rather than a blank page.
-
----
-
-# Connect
-
-### GitHub
-
-[View the Business Decision Toolbox](https://github.com/HyVoid/business-decision-toolbox)
-
-### LinkedIn
-
-[LinkedIn Profile | View My Business Analysis](https://www.linkedin.com/in/alex-yuhong/)
-
-### Email
-
-Have further need for customized decision systems? Tool use support?
-GO with 👉 support@theseusworkshop.com
-
----
-## Affiliate Program / Collaborations
-
-If you've actually used one of my tools and found it genuinely useful, you're welcome to become an affiliate.
-
-This program is designed for people who naturally recommend products they believe in—not for mass promotion or spam.
-
-As an affiliate you'll receive:
-
+As an affiliate, you receive:
 * **40% commission** on every successful referral.
-* Your own referral link with an **optional personal discount (around 10%)** for your audience, making it easier for them to try the tool while benefiting from your recommendation.
-* A long-term partnership with future products as the catalog grows.
+* A referral link with an **optional personal discount (around 10%)** for your audience, making it easier for them to try the tool.
+* A long-term partnership as the catalog grows.
 
-There are no posting quotas or sales targets.
+There are no quotas. Just use the tools first, and recommend them if they genuinely solve a problem you recognize.
 
-Use the tools first. Recommend them only if they genuinely solve someone's problem.
+[**Apply anytime here →**](https://www.theseusworkshop.com/affiliates)
 
-[**Apply anytime →**](https://www.theseusworkshop.com/affiliates)
+---
 
-# Final Thought
-
-Most business problems do not require more software.
-
-They require better visibility, better structure, and better decisions.
-
-That's what these decision systems are designed to support.
+> **A Final Thought:**
+> Most operational problems are not software problems. They are problem-definition problems. 
+> I hope these tools help you structure the noise, make better decisions, and get your focus back.
